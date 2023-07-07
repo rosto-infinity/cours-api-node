@@ -1,5 +1,4 @@
 const express = require("express");
-
 const port = 5002
 
 const app = express();
