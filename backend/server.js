@@ -1,6 +1,7 @@
 const express = require("express");
 
-const port = 5000
+const port = 5002
 
-const app = espress();
+const app = express();
+
 app.listen(port, () => console.log(`Le serveur a démané au port ${port}`));
